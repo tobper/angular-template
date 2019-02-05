@@ -70,6 +70,16 @@
     "use-life-cycle-interface": true,
     "use-pipe-transform-interface": true,
     "component-class-suffix": true,
-    "directive-class-suffix": true
+    "directive-class-suffix": true,
+    "semicolon": [
+      true,
+      "never"
+    ],
+    "one-line": false,
+    "curly": [
+      true,
+      "as-needed"
+    ],
+    "import-spacing": false
   }
 }
